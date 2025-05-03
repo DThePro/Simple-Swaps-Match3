@@ -1,9 +1,11 @@
 # 🎨 Simple Swaps
 
-*A charming little match-3 game.*
+*An open source charming little match-3 game.*
 
 Simple Swaps is a cute, cozy, and visually satisfying match-3 experience.  
 No stress. No clutter. Just soothing colors, soft animations, and those oh-so-satisfying combos.
+
+Check out the source code on [GitHub](https://github.com/DThePro/Simple-Swaps-Match3/).
 
 ---
 
@@ -43,7 +45,7 @@ Built with:
 - **Unity** (version 6000.0.23f1)
 - **DOTween** for smooth, satisfying animations
 - **TextMeshPro** for crispy clean text
-- **C#** and a sprinkle of cozy logic
+- **C#** for a smooth gaming experience
 
 ---
 
