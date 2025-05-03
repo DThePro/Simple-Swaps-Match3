@@ -1,6 +1,6 @@
 # 🎨 Simple Swaps
 
-*An open source charming little match-3 game.*
+*An open-source charming little match-3 game.*
 
 Simple Swaps is a cute, cozy, and visually satisfying match-3 experience.  
 No stress. No clutter. Just soothing colors, soft animations, and those oh-so-satisfying combos.
