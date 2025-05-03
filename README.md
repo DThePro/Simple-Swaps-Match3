@@ -48,7 +48,7 @@ Built with:
 
 ## ✍️ Author
 
-Made with <3 by **DThePro)**  
+Made with <3 by **DThePro**  
 [Website](https://bydthepro.wixsite.com/home) · [Twitter](https://x.com/DThePro_) · [Steam](store.steampowered.com/app/3139760/The_Long_Road_Home/)
 
 
