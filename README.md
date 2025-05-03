@@ -21,7 +21,8 @@ No stress. No clutter. Just soothing colors, soft animations, and those oh-so-sa
 - 🎀 **Minimalist aesthetic** — clean visuals, calming palettes
 - 🎵 **Subtle soundscapes** — light sound effects for a peaceful vibe
 - 📈 **Combo system** — rewards skillful swaps with increasingly fancy flair
-- 💤 **No timers. No stress.** A classic time-killing game.
+- 💤 **No timers. No stress.** — A classic time-killing game.
+- 🔒 **Secure data saving** — Uses AES encryption with PlayerPrefs to save the highscore.
 
 ---
 
